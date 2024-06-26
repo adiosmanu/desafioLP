@@ -1,0 +1,14 @@
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\bin\Debug\net8.0\veiculos.exe
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\bin\Debug\net8.0\veiculos.deps.json
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\bin\Debug\net8.0\veiculos.runtimeconfig.json
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\bin\Debug\net8.0\veiculos.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\bin\Debug\net8.0\veiculos.pdb
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfoInputs.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfo.cs
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.csproj.CoreCompileInputs.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\refint\veiculos.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.pdb
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\veiculos.genruntimeconfig.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\veiculos\obj\Debug\net8.0\ref\veiculos.dll
